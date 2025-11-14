@@ -1,5 +1,4 @@
-# Smart Energy Saver Automation (No ML Version)
-# ECE + IoT Logic Based Device Control
+
 
 print("SMART ENERGY SAVER SYSTEM\n")
 
@@ -8,7 +7,7 @@ light = int(input("Enter light intensity (0-300): "))
 temp = int(input("Enter room temperature (°C): "))
 motion = int(input("Motion detected? (1 = Yes, 0 = No): "))
 
-# Automation Logic (Embedded-style)
+
 if motion == 1:
     if temp > 27:
         print("\nOutput: Turn ON device (Cooling required)")
