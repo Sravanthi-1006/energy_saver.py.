@@ -45,11 +45,9 @@ IoT Automation Principles
 📂 Project Files
 File	Description
 energy_saver.py	Main Python automation code
-Smart_Energy_Saver_Project_Report.pdf	Full project documentation
-screenshot.png	Sample output screenshot (optional)
-▶️ How to Run the Project
 
-Install Python (or use online compilers like Replit/JDoodle)
+
+Install Python 
 
 Run the code:
 
@@ -90,7 +88,7 @@ Enter motion: 1
 
 Output: Turn ON device (Cooling required)
 
-🔌 How It Works (ECE Explanation)
+
 1. LDR (Light Sensor)
 
 High resistance in low light
